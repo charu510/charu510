@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Medical Image Processing, React Native, Deep Learning, Web 3, Cryptocurrency**
 
-- 💬 Ask me about **NodeJS, ExpressJS, MongoDB and Mongoose, HTML, CSS, Javascript, Bootstrap**
+- 💬 Ask me about **NodeJS, ExpressJS, MongoDB and Mongoose, HTML, CSS, Javascript, Bootstrap, Java**
 
 - 📫 How to reach me **charu18.anant@gmail.com**
 
