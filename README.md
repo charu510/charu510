@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu510&label=Profile%20views&color=0e75b6&style=flat" alt="charu510" /> </p>
 
-- 🔭 I’m currently working on [Dynamic TodoList](https://mysterious-inlet-89308.herokuapp.com/)
+- 🔭 I have created [Dynamic TodoList](https://mysterious-inlet-89308.herokuapp.com/) and [SignUp Letter with MailChimp API](https://guarded-inlet-63291.herokuapp.com/)
 
 - 🌱 I’m currently learning **Medical Image Processing, React Native, Deep Learning, Web 3, Cryptocurrency**
 
